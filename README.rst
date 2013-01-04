@@ -21,6 +21,8 @@ Example of tasks::
 Shortcuts:
 
 ``<leader>tc`` - toggle task done status
+
 ``<leader>tu`` - toggle task urgent status
+
 ``<leader>td`` - toggle task delay status
 
